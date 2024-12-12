@@ -1,0 +1,1 @@
+export type AccountType = undefined | null | 'guest' | 'login'
